@@ -1,3 +1,3 @@
 # git_lesson_muratgcmz
 
-bu bizim githubtaki ilk çalışmamız.
+bu bizim github daki ilk çalışmamız.
